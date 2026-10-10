@@ -87,7 +87,7 @@ kawankios-dokumentasi/
 
 - 📦 [Panduan Instalasi](docs/INSTALLATION.md)
 - ⚙️ [Penjelasan Fitur](docs/FEATURES.md)
-- 📜 [Lisensi](LICENSE)
+- 📜 [Lisensi](LICENSE.md)
 
 ---
 
