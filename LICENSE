@@ -6,6 +6,27 @@ Lisensi ini mengatur penggunaan, modifikasi, dan distribusi source code KawanKio
 
 Dengan membeli, menerima, atau menggunakan source code KawanKios, penerima dianggap telah membaca dan menyetujui ketentuan lisensi ini.
 
+## Ringkasan Ketentuan Lisensi
+
+| Aspek | Ketentuan |
+|---|---|
+| Kepemilikan | Hak cipta source code asli tetap menjadi milik pemegang hak cipta yang sah. |
+| Penggunaan komersial | Diizinkan untuk kebutuhan pribadi, bisnis, dan komersial. |
+| Penggunaan beberapa toko | Diizinkan pada beberapa toko yang dimiliki atau dikelola pemegang lisensi. |
+| Instalasi | Diizinkan pada server, hosting, atau lingkungan lokal yang dikelola sendiri. |
+| Modifikasi | Diizinkan untuk kebutuhan internal dan operasional bisnis. |
+| Perubahan nama aplikasi | Diizinkan, dengan tetap mematuhi ketentuan logo utama. |
+| Perubahan antarmuka | Diizinkan selama ketentuan logo utama tetap dipatuhi. |
+| Logo utama KawanKios | Tidak boleh diganti, dihapus, atau diubah tanpa izin tertulis dari pemegang hak terkait. |
+| Identitas toko pada struk | Logo, nama, dan identitas toko boleh disesuaikan dengan identitas bisnis pemegang lisensi. |
+| Penjualan ulang source code | Dilarang menjual kembali source code asli maupun versi modifikasinya sebagai produk source code. |
+| Distribusi source code | Dilarang membagikan atau memublikasikan source code kepada pihak yang tidak berwenang, termasuk melalui repository publik. |
+| Penggunaan developer pihak ketiga | Mengikuti persetujuan dan ketentuan tambahan dari pemegang hak lisensi. |
+| Pembaruan dan dukungan teknis | Mengikuti kesepakatan terpisah, termasuk cakupan, biaya, dan jangka waktunya. |
+| Komponen pihak ketiga | Tetap tunduk pada lisensi masing-masing. |
+| Tanggung jawab operasional | Pemegang lisensi bertanggung jawab atas server, kredensial, pencadangan data, dan perubahan source code, sesuai hukum yang berlaku. |
+| Pelanggaran lisensi | Dapat menjadi dasar permintaan penghentian pelanggaran dan upaya hukum yang tersedia. |
+
 ## 1. Kepemilikan
 
 Source code asli KawanKios beserta komponen dan aset yang dimiliki oleh evanCoders tetap menjadi milik pemegang hak cipta yang sah.
@@ -85,8 +106,14 @@ Lisensi ini berlaku untuk penggunaan source code KawanKios yang didistribusikan 
 
 Jika suatu ketentuan dinyatakan tidak berlaku atau tidak dapat diberlakukan, ketentuan lainnya tetap berlaku sejauh diizinkan oleh hukum.
 
-**Pemegang Hak Cipta:** evanCoders  
-**Nama Produk:** KawanKios  
-**Tahun:** 2026
+## Informasi Lisensi
 
-All rights reserved.
+| Informasi | Detail |
+|---|---|
+| Pemegang Hak Cipta | evanCoders |
+| Nama Produk | KawanKios |
+| Tahun | 2026 |
+| Jenis Lisensi | Proprietary Software License |
+| Hak Cipta | All rights reserved. |
+
+**Copyright © 2026 evanCoders. All rights reserved.**

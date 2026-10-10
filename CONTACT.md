@@ -5,7 +5,7 @@
 
 ## Dukungan Teknis
 - Email: evancoder70@gmail.com
-- GitHub Issues: [link]
+- GitHub Issues: [[link](https://github.com/evanCoders/kawankios-dokumentasi/issues)]
 
 ## Kerja Sama Bisnis
 - Email: evanpurnamalilakosasih@gmail.com
