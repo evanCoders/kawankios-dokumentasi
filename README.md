@@ -13,7 +13,7 @@ Dokumentasi resmi **KawanKios**, sistem Point of Sale (POS) berbasis web untuk p
 - [Fitur Utama](#fitur-utama)
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
 - [Struktur Dokumentasi](#struktur-dokumentasi)
-- [Lisensi](#lisensi.md)
+- [Lisensi](#LICENSE.md)
 - [Informasi Kontak](CONTACT.md)
 
 ---
@@ -78,7 +78,7 @@ kawankios-dokumentasi/
 │   ├── FEATURES.md
 │   └── INSTALLATION.md
 ├── CONTACT.md
-├── LICENSE
+├── LICENSE.md
 └── README.md
 ```
 
