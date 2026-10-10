@@ -1,0 +1,92 @@
+# KAWANKIOS — PROPRIETARY SOFTWARE LICENSE
+
+**Copyright © 2026 evanCoders. All rights reserved.**
+
+Lisensi ini mengatur penggunaan, modifikasi, dan distribusi source code KawanKios yang dikembangkan dan didistribusikan oleh evanCoders.
+
+Dengan membeli, menerima, atau menggunakan source code KawanKios, penerima dianggap telah membaca dan menyetujui ketentuan lisensi ini.
+
+## 1. Kepemilikan
+
+Source code asli KawanKios beserta komponen dan aset yang dimiliki oleh evanCoders tetap menjadi milik pemegang hak cipta yang sah.
+
+Pembelian source code memberikan hak penggunaan sesuai ketentuan lisensi ini, bukan pengalihan kepemilikan hak cipta atas source code asli.
+
+## 2. Hak Penggunaan
+
+Pemegang lisensi diperbolehkan untuk:
+
+- Menggunakan KawanKios untuk kebutuhan pribadi, bisnis, dan komersial.
+- Menggunakan KawanKios pada beberapa toko yang dimiliki atau dikelola oleh pemegang lisensi.
+- Memasang aplikasi pada server, hosting, atau lingkungan lokal yang dikelola sendiri.
+- Memodifikasi source code untuk kebutuhan sendiri.
+- Menambahkan, mengubah, atau mengembangkan fitur aplikasi.
+- Mengubah nama aplikasi.
+- Mengubah tampilan antarmuka aplikasi.
+- Mengubah identitas toko, termasuk logo toko yang ditampilkan pada struk transaksi.
+
+## 3. Ketentuan Logo dan Identitas
+
+Logo utama KawanKios wajib dipertahankan dan tidak boleh diganti, dihapus, atau diubah tanpa izin tertulis dari pemegang hak terkait.
+
+Penggantian nama aplikasi dan penyesuaian tampilan diperbolehkan selama ketentuan mengenai logo utama tersebut tetap dipatuhi.
+
+Logo, nama, dan identitas toko yang digunakan pada struk transaksi boleh disesuaikan dengan identitas bisnis pemegang lisensi.
+
+## 4. Larangan Distribusi dan Penjualan Ulang
+
+Pemegang lisensi dilarang untuk:
+
+- Menjual kembali atau mendistribusikan source code asli KawanKios kepada pihak lain.
+- Menjual source code KawanKios yang telah dimodifikasi sebagai produk source code.
+- Membagikan atau memublikasikan source code secara terbuka, termasuk melalui repository publik, situs web, forum, atau media distribusi lainnya.
+- Memberikan salinan source code kepada pihak yang tidak berwenang untuk menerima atau menggunakannya.
+- Mengklaim kepemilikan atau kepengarangan atas source code asli KawanKios seolah-olah dibuat sendiri.
+
+Larangan distribusi tidak menghalangi pemegang lisensi menggunakan aplikasi hasil instalasi untuk menjalankan bisnisnya sendiri.
+
+## 5. Pengembangan dan Modifikasi
+
+Pemegang lisensi boleh melakukan modifikasi untuk kebutuhan internal dan operasional bisnisnya.
+
+Modifikasi tersebut tidak memberikan hak untuk menjual, membagikan, atau mendistribusikan source code asli maupun versi modifikasinya kepada pihak lain.
+
+Ketentuan mengenai penggunaan developer atau pihak ketiga untuk membantu melakukan modifikasi perlu mengikuti persetujuan dan ketentuan tambahan yang ditetapkan oleh pemegang hak lisensi.
+
+## 6. Pembaruan dan Dukungan Teknis
+
+Pembaruan aplikasi, perbaikan bug, penambahan fitur, bantuan instalasi, dan dukungan teknis tidak otomatis menjadi hak yang tidak terbatas hanya karena pembelian source code.
+
+Ketersediaan, biaya, cakupan, dan jangka waktu pembaruan maupun dukungan teknis mengikuti kesepakatan terpisah antara evanCoders dan pemegang lisensi.
+
+## 7. Komponen Pihak Ketiga
+
+KawanKios dapat menggunakan framework, library, paket, atau komponen pihak ketiga yang memiliki ketentuan lisensi masing-masing.
+
+Komponen tersebut tetap tunduk pada lisensi masing-masing. Dokumen ini tidak menggantikan atau membatalkan ketentuan lisensi pihak ketiga.
+
+## 8. Penafian dan Batas Tanggung Jawab
+
+KawanKios disediakan sebagaimana adanya (*as is*), sejauh diizinkan oleh hukum yang berlaku.
+
+evanCoders tidak menjamin bahwa aplikasi akan selalu berjalan tanpa gangguan atau memenuhi seluruh kebutuhan khusus setiap bisnis.
+
+Pemegang lisensi bertanggung jawab atas pengelolaan server, keamanan kredensial, pencadangan data, dan perubahan yang dilakukan terhadap source code, dengan tetap memperhatikan hak konsumen dan ketentuan hukum yang tidak dapat dikesampingkan.
+
+## 9. Pelanggaran Lisensi
+
+Pelanggaran terhadap ketentuan lisensi ini dapat menjadi dasar untuk meminta penghentian penggunaan atau distribusi yang melanggar, serta menempuh upaya hukum yang tersedia berdasarkan hukum yang berlaku.
+
+Ketentuan ini tidak menghapus hak atau perlindungan yang diberikan oleh hukum kepada masing-masing pihak.
+
+## 10. Ketentuan Penutup
+
+Lisensi ini berlaku untuk penggunaan source code KawanKios yang didistribusikan oleh evanCoders, kecuali terdapat perjanjian tertulis lain yang secara khusus mengubah ketentuan tertentu.
+
+Jika suatu ketentuan dinyatakan tidak berlaku atau tidak dapat diberlakukan, ketentuan lainnya tetap berlaku sejauh diizinkan oleh hukum.
+
+**Pemegang Hak Cipta:** evanCoders  
+**Nama Produk:** KawanKios  
+**Tahun:** 2026
+
+All rights reserved.
